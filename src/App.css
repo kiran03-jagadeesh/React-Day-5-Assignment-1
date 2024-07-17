@@ -1,0 +1,42 @@
+body {
+  font-family: 'Times New Roman', Times, serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+header {
+  background: url('./images.jpeg');
+  padding: 100px 600px;
+  color: rgb(255, 252, 252);
+  text-align: center;
+  text-decoration:underline;
+}
+
+nav a {
+  margin:  10px;
+  color: rgb(249, 249, 249);
+  text-decoration:underline;
+}
+
+nav a:hover {
+  text-decoration:underline;
+}
+
+main {
+  padding: 140px;
+}
+
+section {
+  text-align: left;
+  padding: left;
+  margin: -110px;
+}
+
+h2 {
+  text-align: left;
+  padding: left;
+  margin: 0px;
+  text-decoration:underline;
+  
+}
